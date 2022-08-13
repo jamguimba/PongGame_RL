@@ -17,8 +17,8 @@ pg-pong.py
 
 ## Resuts
 For Interactive Graph, check the link below.</br>
-https://public.tableau.com/views/ALL_16604277723250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
-![image](https://user-images.githubusercontent.com/99978258/184512066-f0adb112-4e84-424f-bee2-f384ae0a2125.png)
+https://public.tableau.com/app/profile/jam5637/viz/ReinforcementLearningonPongGame/Dashboard1?publish=yes
+![image](https://user-images.githubusercontent.com/99978258/184512165-6d24fb15-d1d1-478a-b424-65253e87cb46.png)
 
 ## Execution Log
 Sample:</br>
